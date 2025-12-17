@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/honors-portfolio/static/css/main.28bd8e14.css",
-    "main.js": "/honors-portfolio/static/js/main.a07fb502.js",
+    "main.css": "/honors-portfolio/static/css/main.7a248136.css",
+    "main.js": "/honors-portfolio/static/js/main.76b560b2.js",
     "static/js/453.6472ee3e.chunk.js": "/honors-portfolio/static/js/453.6472ee3e.chunk.js",
     "static/media/HonorsThesis.pdf": "/honors-portfolio/static/media/HonorsThesis.fce4589cf00051bef0b4.pdf",
     "static/media/mock01.png": "/honors-portfolio/static/media/mock01.61bd486a54bf6e17ee5a.png",
@@ -9,6 +9,7 @@
     "static/media/headshot.webp": "/honors-portfolio/static/media/headshot.dd733f3f7587e8fd0f11.webp",
     "static/media/LoremIpsum.pdf": "/honors-portfolio/static/media/LoremIpsum.0a5bdd05085552159602.pdf",
     "static/media/montserrat-latin-ext-400-normal.woff": "/honors-portfolio/static/media/montserrat-latin-ext-400-normal.06caa15b06166530143c.woff",
+    "static/media/triangles-red.webp": "/honors-portfolio/static/media/triangles-red.bf3814e0cfcdc53b017d.webp",
     "static/media/montserrat-latin-ext-400-normal.woff2": "/honors-portfolio/static/media/montserrat-latin-ext-400-normal.1974241fa9a808c0c154.woff2",
     "static/media/montserrat-latin-400-normal.woff": "/honors-portfolio/static/media/montserrat-latin-400-normal.218f0eedf6c57456ddb7.woff",
     "static/media/triangles-gray.webp": "/honors-portfolio/static/media/triangles-gray.79b72feb61bcef83c6c3.webp",
@@ -22,12 +23,12 @@
     "static/media/montserrat-vietnamese-400-normal.woff2": "/honors-portfolio/static/media/montserrat-vietnamese-400-normal.7da603c92e367751f991.woff2",
     "static/media/montserrat-vietnamese-400-normal.woff": "/honors-portfolio/static/media/montserrat-vietnamese-400-normal.5fd7aca35adbd20e7a03.woff",
     "index.html": "/honors-portfolio/index.html",
-    "main.28bd8e14.css.map": "/honors-portfolio/static/css/main.28bd8e14.css.map",
-    "main.a07fb502.js.map": "/honors-portfolio/static/js/main.a07fb502.js.map",
+    "main.7a248136.css.map": "/honors-portfolio/static/css/main.7a248136.css.map",
+    "main.76b560b2.js.map": "/honors-portfolio/static/js/main.76b560b2.js.map",
     "453.6472ee3e.chunk.js.map": "/honors-portfolio/static/js/453.6472ee3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28bd8e14.css",
-    "static/js/main.a07fb502.js"
+    "static/css/main.7a248136.css",
+    "static/js/main.76b560b2.js"
   ]
 }
