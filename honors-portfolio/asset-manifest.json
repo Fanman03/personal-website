@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/honors-portfolio/static/css/main.ffe707a9.css",
-    "main.js": "/honors-portfolio/static/js/main.abaefdc6.js",
+    "main.css": "/honors-portfolio/static/css/main.28bd8e14.css",
+    "main.js": "/honors-portfolio/static/js/main.a07fb502.js",
     "static/js/453.6472ee3e.chunk.js": "/honors-portfolio/static/js/453.6472ee3e.chunk.js",
     "static/media/HonorsThesis.pdf": "/honors-portfolio/static/media/HonorsThesis.fce4589cf00051bef0b4.pdf",
     "static/media/mock01.png": "/honors-portfolio/static/media/mock01.61bd486a54bf6e17ee5a.png",
@@ -11,8 +11,10 @@
     "static/media/montserrat-latin-ext-400-normal.woff": "/honors-portfolio/static/media/montserrat-latin-ext-400-normal.06caa15b06166530143c.woff",
     "static/media/montserrat-latin-ext-400-normal.woff2": "/honors-portfolio/static/media/montserrat-latin-ext-400-normal.1974241fa9a808c0c154.woff2",
     "static/media/montserrat-latin-400-normal.woff": "/honors-portfolio/static/media/montserrat-latin-400-normal.218f0eedf6c57456ddb7.woff",
-    "static/media/triangle-white.webp": "/honors-portfolio/static/media/triangle-white.79b72feb61bcef83c6c3.webp",
+    "static/media/triangles-gray.webp": "/honors-portfolio/static/media/triangles-gray.79b72feb61bcef83c6c3.webp",
     "static/media/montserrat-latin-400-normal.woff2": "/honors-portfolio/static/media/montserrat-latin-400-normal.4bc3bc9536f24ed8076d.woff2",
+    "static/media/triangles-black.webp": "/honors-portfolio/static/media/triangles-black.11664b1bad7ecbe86c29.webp",
+    "static/media/triangles-white.webp": "/honors-portfolio/static/media/triangles-white.f1dcc65e872a3e9c79bb.webp",
     "static/media/montserrat-cyrillic-ext-400-normal.woff": "/honors-portfolio/static/media/montserrat-cyrillic-ext-400-normal.f6089642713132ee161e.woff",
     "static/media/montserrat-cyrillic-ext-400-normal.woff2": "/honors-portfolio/static/media/montserrat-cyrillic-ext-400-normal.f455ee8f24fd612e2b15.woff2",
     "static/media/montserrat-cyrillic-400-normal.woff2": "/honors-portfolio/static/media/montserrat-cyrillic-400-normal.4715847d051a164a7577.woff2",
@@ -20,12 +22,12 @@
     "static/media/montserrat-vietnamese-400-normal.woff2": "/honors-portfolio/static/media/montserrat-vietnamese-400-normal.7da603c92e367751f991.woff2",
     "static/media/montserrat-vietnamese-400-normal.woff": "/honors-portfolio/static/media/montserrat-vietnamese-400-normal.5fd7aca35adbd20e7a03.woff",
     "index.html": "/honors-portfolio/index.html",
-    "main.ffe707a9.css.map": "/honors-portfolio/static/css/main.ffe707a9.css.map",
-    "main.abaefdc6.js.map": "/honors-portfolio/static/js/main.abaefdc6.js.map",
+    "main.28bd8e14.css.map": "/honors-portfolio/static/css/main.28bd8e14.css.map",
+    "main.a07fb502.js.map": "/honors-portfolio/static/js/main.a07fb502.js.map",
     "453.6472ee3e.chunk.js.map": "/honors-portfolio/static/js/453.6472ee3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffe707a9.css",
-    "static/js/main.abaefdc6.js"
+    "static/css/main.28bd8e14.css",
+    "static/js/main.a07fb502.js"
   ]
 }
