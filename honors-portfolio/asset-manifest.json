@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/honors-portfolio/static/css/main.563bb275.css",
-    "main.js": "/honors-portfolio/static/js/main.26881239.js",
+    "main.js": "/honors-portfolio/static/js/main.accce391.js",
     "static/js/453.6472ee3e.chunk.js": "/honors-portfolio/static/js/453.6472ee3e.chunk.js",
     "static/media/HonorsThesis.pdf": "/honors-portfolio/static/media/HonorsThesis.fce4589cf00051bef0b4.pdf",
     "static/media/mock01.png": "/honors-portfolio/static/media/mock01.61bd486a54bf6e17ee5a.png",
@@ -27,11 +27,11 @@
     "static/media/montserrat-vietnamese-400-normal.woff": "/honors-portfolio/static/media/montserrat-vietnamese-400-normal.5fd7aca35adbd20e7a03.woff",
     "index.html": "/honors-portfolio/index.html",
     "main.563bb275.css.map": "/honors-portfolio/static/css/main.563bb275.css.map",
-    "main.26881239.js.map": "/honors-portfolio/static/js/main.26881239.js.map",
+    "main.accce391.js.map": "/honors-portfolio/static/js/main.accce391.js.map",
     "453.6472ee3e.chunk.js.map": "/honors-portfolio/static/js/453.6472ee3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.563bb275.css",
-    "static/js/main.26881239.js"
+    "static/js/main.accce391.js"
   ]
 }
